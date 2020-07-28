@@ -9,7 +9,7 @@
   "author": "Alastair Paragas <alastairparagas@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.1",
     "spooky": "^0.2.5",
     "twitter": "^1.2.5"
   }
